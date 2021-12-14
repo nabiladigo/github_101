@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+NABILA DIGOURDI
+
+1 linus torvalds
+2 invent Linux 
+3 2005
+4 git init 
+5 git push : it push the file from the local repository to the remote repository
+6 git ignore : its a texet file tells git wich file should ignore
+7 fork is a cope of a repository , you want to have it because it make it easy  to check it change it 
+8 clone is make a clone or a copy of an existing repository in a new directory at another location, as may as we can have 
+9 you can't 
+10 true 
